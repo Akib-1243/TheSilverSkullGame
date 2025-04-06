@@ -72,7 +72,7 @@ Open the project in Visual Studio 2013
 <img src="https://github.com/user-attachments/assets/f017c61f-38ad-45d7-a220-bb9cf2cfb7ff" width="200" height="150">
 
 ## Youtube Link
-[CSE 1200 Project: The Silver Skull](https://youtu.be/3g2uzboTRxc)
+[CSE 1200 Project: The Silver Skull](https://youtu.be/i0SRfGqnV_E?si=cLoH0Q6rDRg0KibU)
 
 ## Project Report
 [Project Report: The Silver Skull](https://docs.google.com/document/d/1upGvxuvAP-uEUQ4u6dcNasveLZvf-R_-/edit?usp=drive_link&ouid=101676094235054571251&rtpof=true&sd=true)
